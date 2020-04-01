@@ -1,0 +1,51 @@
+[
+    {
+        "label": 185,
+        "type": "DDR2",
+        "DIMM": "SO-DIMM",
+        "Capacity": 2048
+    },
+    {
+        "label": 200,
+        "type": "DDR2",
+        "DIMM": "SO-DIMM",
+        "Capacity": 512
+    },
+    {
+        "label": 201,
+        "type": "DDR3",
+        "DIMM": "SO-DIMM",
+        "Capacity": 2048,
+        "speed": 1333
+    },
+    {
+        "label": 184,
+        "type": "DDR2",
+        "DIMM": "SO-DIMM",
+        "Capacity": 2048
+    },
+    {
+        "label": 202,
+        "type": "DDR3",
+        "DIMM": "SO-DIMM",
+        "Capacity": 2048,
+        "speed": 1333
+    },
+    {
+        "label": 203,
+        "type": "DDR2",
+        "DIMM": "SO-DIMM"
+    },
+    {
+        "label": 204,
+        "type": "DDR2",
+        "DIMM": "SO-DIMM",
+        "Capacity": 1024
+    },
+    {
+        "label": 205,
+        "type": "DDR3",
+        "DIMM": "SO-DIMM",
+        "Capacity": 4096
+    }
+]

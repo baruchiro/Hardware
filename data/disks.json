@@ -1,0 +1,25 @@
+[
+    {
+        "label": 300,
+        "name": "Zohar",
+        "type": "HDD",
+        "size": "2.5",
+        "capacity": 250000,
+        "os": "Windows 10",
+        "backedup": true,
+        "free": true
+    },
+    {
+        "label": 187,
+        "name": "Uriel Ofir",
+        "type": "HDD",
+        "size": "2.5",
+        "free": true,
+        "Model Family": "Western Digital Scorpio Black",
+        "Device Model": "WDC WD3200BEKT-08PVMT1",
+        "Serial Number": "WD-WXF1A6192390",
+        "capacity": "320000",
+        "Sector Size": 512,
+        "Rate": 7200
+    }
+]
